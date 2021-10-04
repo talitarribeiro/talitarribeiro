@@ -1,6 +1,7 @@
-# Olá! 👋 Eu sou a Talita Ribeiro 
+# Olá! Eu sou a Talita Ribeiro 
 
-🌱 Estou aprendendo sobre Desenvolvimento Java, na Generation  
+🌱 Estou aprendendo sobre Desenvolvimento Java, na Generation Brasil
+
 😄 Pronomes: Ela/ Ella/ She
 
 <div align="center">
@@ -18,7 +19,9 @@
   
   ##
  <div>
-  <a href="https:" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://discord.com/channels/@me/864318139087847434" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href=" " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/talitaribeiro.ribeiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://github.com/talitarribeiro" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/feed/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+  
+![Snake animation](https://https://github.com/talitarribeiro/blob/output/github-contribution-grid-snake.svg)
