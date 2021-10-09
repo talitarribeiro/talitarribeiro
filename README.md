@@ -1,6 +1,6 @@
 # Olá! Eu sou a Talita Ribeiro 
 
-🌱 Estou aprendendo sobre Desenvolvimento Java, na Generation Brasil
+🌱 Aluna de Desenvolvimento Java, na Generation Brasil
 
 😄 Pronomes: Ela/ Ella/ She
 
