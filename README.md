@@ -2,7 +2,7 @@
 
 🎓  Aluna de Desenvolvimento Web Java Jr, na Generation Brasil
 
-😄 Pronomes: Ela/ Ella/ She
+💁 Pronomes: Ela/ Ella/ She
 
  <div>
   <a href="https://www.instagram.com/talitaribeiro.ribeiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
