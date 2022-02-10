@@ -6,8 +6,8 @@
 
  <div>
  	<a href="https://discord.com/" target="_blank"><img src="https://i.imgur.com/K9DMDt5.png" title="Discord" width="35" height="35"/></a>
-  <a href="https://www.linkedin.com/in/talita-ribeiro-b5a105186/" target="_blank"><img src="https://imgur.com/agFpzYh.png" title="Linkedin" width="35" height="35"/></a>
-  <a href="https://www.instagram.com/talitaribeiro.ribeiro/" target="_blank"><img src="hhttps://i.imgur.com/OjckXlZ.png"" title="Instagram" width="35" height="35"/></a>
+  <a href="https://www.linkedin.com/in/talita-ribeiro-b5a105186/" target="_blank"><img src="https://imgur.com/agFpzYh.png" title="Linkedin" width="35" height="35" /></a>
+  <a href="https://www.instagram.com/talitaribeiro.ribeiro/" target="_blank"><img src="hhttps://i.imgur.com/OjckXlZ.png" title="Instagram" width="35" height="35"/></a>
  
 </div>
   
