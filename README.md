@@ -5,9 +5,9 @@
 💁 Pronomes: Ela/ Ella/ She
 
  <div>
- 	<a href="https://discord.com/" target="_blank"><img src="https://imgur.com/K9DMDt5" title="Discord" width="30" height="30" /></a>
-  <a href="https://www.linkedin.com/in/talita-ribeiro-b5a105186/" target="_blank"><img src="https://imgur.com/agFpzYh" title="LinkedIn" width="30" height="30" /></a>
-  <a href="https://www.instagram.com/talitaribeiro.ribeiro/" target="_blank"><img src="https://i.imgur.com/jAGGOTT.png" title="Instagram" width="30" height="30" /></a>
+ 	<a href="https://discord.com/" target="_blank"><img src="https://i.imgur.com/K9DMDt5.png" title="source: imgur.com" title="Discord" width="30" height="30"/></a>
+  <a href="https://www.linkedin.com/in/talita-ribeiro-b5a105186/" target="_blank"><img src="https://imgur.com/agFpzYh" title="LinkedIn" width="30" height="30"/></a>
+  <a href="https://www.instagram.com/talitaribeiro.ribeiro/" target="_blank"><img src="https://i.imgur.com/jAGGOTT.png" title="Instagram" width="30" height="30"/></a>
 </div>
   
   ##
