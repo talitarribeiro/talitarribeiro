@@ -8,7 +8,7 @@
   <a href="https://www.instagram.com/talitaribeiro.ribeiro/" target="_blank"><img src="https://imgur.com/jAGGOTT" target="_blank"></a>
  	<a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/feed/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://www.instagram.com/talitaribeiro.ribeiro/" target="_blank"><img heigth="50px" src="https://i.imgur.com/jAGGOTT.png" title="Instagram" /></a>
+ <a href="https://www.instagram.com/talitaribeiro.ribeiro/" target="_blank"><img src="https://i.imgur.com/jAGGOTT.png" title="Instagram" heigth="50px" /></a>
 </div>
   
   ##
