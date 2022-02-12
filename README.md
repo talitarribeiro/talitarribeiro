@@ -15,7 +15,7 @@
  
 </div>
   
- ## **Linguagens e Ferramentas:**  
+ ## **Linguagens e Ferramentas**  
  
 <div align="left">
   <a href="https://github.com/talitarribeiro">
