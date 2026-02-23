@@ -1,7 +1,5 @@
 # Olá! Eu sou a Talita Ribeiro 
 
-🎓  Aluna de Desenvolvimento de Software Multiplataforma, na FATEC Zona Leste
-
 💁 Pronomes: Ela/ Ella/ She
 
 ## **Redes Sociais**
